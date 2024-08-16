@@ -74,13 +74,3 @@ weather-app/
 - **Improved UI/UX:** Enhance the design and add animations for better user experience.
 - **Unit Testing:** Add unit tests for JavaScript functions to ensure code reliability.
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-```
-
-This `README.md` provides an overview of the project, instructions for getting started, and suggestions for future improvements. You can customize it further according to your specific needs and development setup.
